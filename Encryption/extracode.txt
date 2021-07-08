@@ -1,0 +1,10 @@
+3.638471 0.815778
+[9173863, 15127125, 5413313, 13341039, 9941779, 14737689, 6518651, 14502516, 7154286, 14930441, 5979784]
+
+
+3.638471 0.815778
+[9173863, 15127125, 5413313, 13341039, 9941779, 14737689, 6518651, 14502516, 7154286, 14930441, 5979784]
+
+//keys recieved is correct;
+//there are changes in original encrypt and original decrypt allface pixels
+Decrypt after image load pixel values=encrypt after complete encryption values:
